@@ -5,4 +5,4 @@
 - Daha sonra "Başla" butonuna basmanız yeterli.
 - iyi eğlenceler
 
-<img src="ornekResim.png" alt="OrangeHack" width="200" height="100">
+<img src="ornekResim.png" alt="OrangeHack" width="800" height="500">
